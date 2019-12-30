@@ -18,4 +18,4 @@ img {display: block; margin-left: auto; margin-right: auto; width: 50%;}
 
 #details {display: block; margin-left: auto; margin-right: auto; width: 100%;}
 
-#details div {display: block; max-width: 400px; float: left;}
+#details div {float: left;}
