@@ -16,6 +16,6 @@ img {display: block; margin-left: auto; margin-right: auto; width: 50%;}
 
 #featured-property p {display: block; margin-left: auto; margin-right: auto; max-width: 800px; text-align: center;}
 
-#details {display: block; margin-left: auto; margin-right: auto; width: 90%;}
+#details {display: block; margin-left: auto; margin-right: auto; width: 100%;}
 
 #details div {display: block; max-width: 200px; float: left;}
